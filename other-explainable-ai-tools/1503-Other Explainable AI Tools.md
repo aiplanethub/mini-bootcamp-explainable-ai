@@ -25,7 +25,7 @@ There are more such tools/frameworks that we can utilize for model interpretatio
 
 * Skater is a unified framework to enable Model Interpretation for all forms of models to help one build an Interpretable machine learning system often needed for real-world use-cases using a model-agnostic approach.
 * It is an open-source python library designed to demystify the learned structures of a black box model both globally(inference based on a complete data set) and locally(inference about an individual prediction).
-* You can typically install Skater using a simple `pip install skater`.
+* You can typically install Skater using this command: `pip install skater`.
 
 
 
