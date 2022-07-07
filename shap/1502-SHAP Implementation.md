@@ -12,4 +12,4 @@ This is a binary classification problem.
 
 Let's implement SHAP and see how we can derive some exciting inferences through beautiful visualizations.
 
-**PS. Some visualizations are omitted on the web, so it's better to open the notebook in Google Colab or Jupyter Notebook.**
+**P.S: Some visualizations are omitted on the web, so it's better to open the notebook in Google Colab or Jupyter Notebook.**
