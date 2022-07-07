@@ -16,7 +16,7 @@ There are more such tools/frameworks that we can utilize for model interpretatio
 
 * ELI5 is a Python package that helps debug machine learning classifiers and explain their predictions in an easy-to-understand and intuitive way.
 * It is perhaps the easiest of the three machine learning frameworks since it involves minimal documentation reading!
-* However, it doesn’t support true model-agnostic interpretations, and support for models is mainly limited to tree-based and other parametric\linear models.
+* However, it doesn’t support true model-agnostic interpretations, and support for models is mainly limited to tree-based and other parametric/linear models.
 * You can install it using `pip install eli5`.
 
 
