@@ -31,7 +31,7 @@ Simply going by the name, it explains what exactly is happening behind the fancy
 
 A formal definition:
 
-_“Explainable AI is a set of tools and frameworks to help you understand and interpret predictions made by your machine learning models. With it, you can debug and improve model performance, and help others understand your models’ behavior”_
+_“Explainable AI is a set of tools and frameworks to help you understand and interpret predictions made by your machine learning models. With it, you can debug and improve model performance, and help others understand your models’ behavior”_.
 
 ## How Explainable AI makes things easier
 
