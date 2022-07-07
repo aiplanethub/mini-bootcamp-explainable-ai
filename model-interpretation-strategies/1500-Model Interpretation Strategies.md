@@ -16,7 +16,7 @@ In the industry, you will often hear that **business stakeholders tend to prefer
 
 This increases people’s trust in these models since its decision policies are easier to understand.
 
-However, if you talk to data scientists solving real-world problems in the industry, they will tell you that **due to the inherent high-dimensional and complex nature of real-world datasets, they often have to leverage machine learning models, which might be non-linear and more complex**, which are often impossible to explain using traditional methods (ensembles, neural networks).
+However, if you talk to data scientists solving real-world problems in the industry, they will tell you that **due to the inherent high-dimensional and complex nature of real-world datasets, they often have to leverage machine learning models, which might be non-linear and more complex**, which are often impossible to explain using traditional methods (ensembles, neural networks, etc.).
 
 Thus, data scientists spend a lot of their time trying to improve model performance but, in the process, trying to strike a balance between model performance and interpretability.
 
